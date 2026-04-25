@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Mediterranean Quinoa Salad",
+        "imgsrc": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+        "time": "20 min",
+        "servings": 4,
+        "calories": 320,
+        "difficulty": 0
+    },
+    {
+        "title": "Classic Beef Smash Burgers",
+        "imgsrc": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+        "time": "15 min",
+        "servings": 2,
+        "calories": 750,
+        "difficulty": 0
+    },
+    {
+        "title": "Slow-Roasted Garlic Chicken",
+        "imgsrc": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6",
+        "time": "1h 30 min",
+        "servings": 6,
+        "calories": 540,
+        "difficulty": 1
+    },
+    {
+        "title": "Wild Mushroom Risotto",
+        "imgsrc": "https://images.unsplash.com/photo-1476124369491-e7addf5db371",
+        "time": "40 min",
+        "servings": 4,
+        "calories": 480,
+        "difficulty": 3
+    }
+]
